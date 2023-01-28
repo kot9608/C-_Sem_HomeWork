@@ -1,0 +1,15 @@
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\bin\Debug\net6.0\HW - TASK4.exe
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\bin\Debug\net6.0\HW - TASK4.deps.json
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\bin\Debug\net6.0\HW - TASK4.runtimeconfig.json
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\bin\Debug\net6.0\HW - TASK4.dll
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\bin\Debug\net6.0\HW - TASK4.pdb
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\HW - TASK4.csproj.AssemblyReference.cache
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\HW - TASK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\HW - TASK4.AssemblyInfoInputs.cache
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\HW - TASK4.AssemblyInfo.cs
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\HW - TASK4.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\HW - TASK4.dll
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\refint\HW - TASK4.dll
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\HW - TASK4.pdb
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\HW - TASK4.genruntimeconfig.cache
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK4\obj\Debug\net6.0\ref\HW - TASK4.dll
