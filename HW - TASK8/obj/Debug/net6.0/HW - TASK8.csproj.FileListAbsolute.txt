@@ -1,0 +1,15 @@
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\HW - TASK8.csproj.AssemblyReference.cache
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\HW - TASK8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\HW - TASK8.AssemblyInfoInputs.cache
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\HW - TASK8.AssemblyInfo.cs
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\HW - TASK8.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\bin\Debug\net6.0\HW - TASK8.exe
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\bin\Debug\net6.0\HW - TASK8.deps.json
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\bin\Debug\net6.0\HW - TASK8.runtimeconfig.json
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\bin\Debug\net6.0\HW - TASK8.dll
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\bin\Debug\net6.0\HW - TASK8.pdb
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\HW - TASK8.dll
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\refint\HW - TASK8.dll
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\HW - TASK8.pdb
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\HW - TASK8.genruntimeconfig.cache
+C:\Users\Alfa\Desktop\GB\C#\Sem1\123\HW - TASK8\obj\Debug\net6.0\ref\HW - TASK8.dll
